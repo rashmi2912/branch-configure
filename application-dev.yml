@@ -2,7 +2,7 @@
 
 voltage:
   auth:
-    auth_username: 'Rashmi'
+    auth_username: 'Sharma'
   
 my:
   greeting: "Hello, I am from config server"
