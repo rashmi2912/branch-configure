@@ -2,9 +2,6 @@ rest:
   template:
     timeout: 40000
 
-voltage:
-  auth:
-    auth_username: 'Rashmi'
 
 logging:
   level:
